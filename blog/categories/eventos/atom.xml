@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Granada Perl Mongers]]></title>
-  <link href="http://Granada-pm.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: eventos | Granada Perl Mongers]]></title>
+  <link href="http://Granada-pm.github.io/blog/categories/eventos/atom.xml" rel="self"/>
   <link href="http://Granada-pm.github.io/"/>
   <updated>2014-05-08T20:45:45+02:00</updated>
   <id>http://Granada-pm.github.io/</id>
