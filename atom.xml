@@ -4,7 +4,7 @@
   <title><![CDATA[Granada Perl Mongers]]></title>
   <link href="http://Granada-pm.github.io/atom.xml" rel="self"/>
   <link href="http://Granada-pm.github.io/"/>
-  <updated>2014-05-14T19:15:42+02:00</updated>
+  <updated>2014-05-23T08:19:58+02:00</updated>
   <id>http://Granada-pm.github.io/</id>
   <author>
     <name><![CDATA[JJ Merelo]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Presentación oficial del mirror de CPAN en la OSL]]></title>
+    <link href="http://Granada-pm.github.io/blog/presentacion-oficial-del-mirror-de-cpan-en-la-osl/"/>
+    <updated>2014-05-23T08:14:05+02:00</updated>
+    <id>http://Granada-pm.github.io/blog/presentacion-oficial-del-mirror-de-cpan-en-la-osl</id>
+    <content type="html"><![CDATA[<p>Aunque ya lleva bastante tiempo funcionando,
+<a href="http://osl.ugr.es/2014/05/20/mirrors-de-la-osl/">el pasado 20 de mayo anunciamos oficialmente el nuevo mirror de CPAN en el servidor de la OSL</a></p>
+
+<p>El
+<a href="http://osl.ugr.es/CPAN/">mirror funciona con HTTP en la dirección <code>http://osl.ugr.es/CPAN/</code></a>,
+se une a los
+<a href="http://osl.ugr.es/CPAN/SITES.html">otros dos <em>mirrors</em> oficiales de Rediris</a>
+y es el único en Andalucía, por lo que os debería dar buen resultado
+desde la red universitaria andaluza, principalmente. En todo caso
+probad los diferentes mirrors que hay a ver cuál os da mejor
+rendimiento.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nueva edición del curso de Perl]]></title>
