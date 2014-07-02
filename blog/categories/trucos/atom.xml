@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Granada Perl Mongers]]></title>
-  <link href="http://Granada-pm.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: trucos | Granada Perl Mongers]]></title>
+  <link href="http://Granada-pm.github.io/blog/categories/trucos/atom.xml" rel="self"/>
   <link href="http://Granada-pm.github.io/"/>
   <updated>2014-07-02T20:13:08+02:00</updated>
   <id>http://Granada-pm.github.io/</id>
@@ -79,86 +79,6 @@ para leer nombres de ficheros o entrada estándar indistintamente.</p></li>
 
 <p>No es que sean las únicas buenas prácticas, pero sí unas convenientes
 y no demasiado complicadas.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Presentación oficial del mirror de CPAN en la OSL]]></title>
-    <link href="http://Granada-pm.github.io/blog/presentacion-oficial-del-mirror-de-cpan-en-la-osl/"/>
-    <updated>2014-05-23T08:14:05+02:00</updated>
-    <id>http://Granada-pm.github.io/blog/presentacion-oficial-del-mirror-de-cpan-en-la-osl</id>
-    <content type="html"><![CDATA[<p>Aunque ya lleva bastante tiempo funcionando,
-<a href="http://osl.ugr.es/2014/05/20/mirrors-de-la-osl/">el pasado 20 de mayo anunciamos oficialmente el nuevo mirror de CPAN en el servidor de la OSL</a></p>
-
-<p>El
-<a href="http://osl.ugr.es/CPAN/">mirror funciona con HTTP en la dirección <code>http://osl.ugr.es/CPAN/</code></a>,
-se une a los
-<a href="http://osl.ugr.es/CPAN/SITES.html">otros dos <em>mirrors</em> oficiales de Rediris</a>
-y es el único en Andalucía, por lo que os debería dar buen resultado
-desde la red universitaria andaluza, principalmente. En todo caso
-probad los diferentes mirrors que hay a ver cuál os da mejor
-rendimiento.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nueva edición del curso de Perl]]></title>
-    <link href="http://Granada-pm.github.io/blog/nueva-edicion-del-curso-de-perl/"/>
-    <updated>2014-05-14T19:02:35+02:00</updated>
-    <id>http://Granada-pm.github.io/blog/nueva-edicion-del-curso-de-perl</id>
-    <content type="html"><![CDATA[<h1>Nueva edición del curso de Perl</h1>
-
-<p>En un par de días termina la matrícula de la
-<a href="http://cevug.ugr.es">decimo cuarta edición de nuestro tradicional curso de introducción a Perl</a>.</p>
-
-<p>Si no has tenido ninguna experiencia previa con este lenguaje, pero sí
-con otros lenguajes de programación, este es tu curso. Explicamos las
-nociones más básicas de <a href="http://perl.org">Perl</a>: estructuras de datos
-y de control, entrada/salida y cosas algo más avanzadas: cómo trabajar
-con módulos y un poco de expresiones regulares.</p>
-
-<p>Cientos de personas han pasado ya por este curso y, a estas horas,
-está bastante depurado. Si quieres tener un primer contacto con este
-lenguaje, o simplemente aprender un lenguaje que pueda resultarte útil
-para tu trabajo diario como científico o administrador de sistemas,
-<a href="http://cevug.ugr.es/pero">matricúlate</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Granada Perl Workshop]]></title>
-    <link href="http://Granada-pm.github.io/blog/granada-perl-workshop/"/>
-    <updated>2014-05-08T20:37:02+02:00</updated>
-    <id>http://Granada-pm.github.io/blog/granada-perl-workshop</id>
-    <content type="html"><![CDATA[<h2>Granada Perl Workshop FTW!</h2>
-
-<p>Después de darle muchas vueltas al asunto, y con la ayuda de los
-<a href="http://barcelona.pm.org">Perl Mongers de Barcelona</a> y los
-<a href="http://madrid.pm.org">Perl Mongers de Madrid</a>, especialmente
-<a href="http://alexm.org">Alex Muntada</a> y
-<a href="http://diego.kuperman.com.ar/">Diego Kuperman</a>, hemos decidido lanzar
-el <em>Granada Perl Workshop</em>, un punto de encuentro para los
-desarrolladores de Perl de aquí y de fuera.</p>
-
-<h3>Cuando</h3>
-
-<p>Tendrá lugar el 27 de junio de 2014.</p>
-
-<h3>Donde</h3>
-
-<p>En la
-<a href="http://etsiit.ugr.es">ETSIIT, Escuela Técnica Superior de Ingenierías Informática y Telecomunicación</a>,
-en Granada capital.</p>
-
-<h3>Por qué</h3>
-
-<p>Porque ya iba siendo hora.</p>
-
-<h3>Qué</h3>
-
-<p>Charlas de una hora y de media hora, a lo largo de todo el
-día. ¿Desarrollas Perl? ¿Quieres contárnoslo? Este es tu
-evento. Haremos la llamada a la participación en breve.</p>
 ]]></content>
   </entry>
   
