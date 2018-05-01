@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://Granada-pm.github.io/sitemap.xml 
+Sitemap: http://granada-pm.github.io/sitemap.xml
