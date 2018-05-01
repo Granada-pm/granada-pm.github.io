@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://granada-pm.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://granada-pm.github.io/" rel="alternate" type="text/html" /><updated>2018-05-01T12:32:42+02:00</updated><id>http://granada-pm.github.io/</id><title type="html">Granada Perl Mongers</title><subtitle>Site for the Granada Perl Mongers, we ❤ Perl and Perl 6.</subtitle><entry><title type="html">SQUASHathon de documentación de Perl 6</title><link href="http://granada-pm.github.io/blog/squashathon/" rel="alternate" type="text/html" title="SQUASHathon de documentación de Perl 6" /><published>2018-05-01T00:00:00+02:00</published><updated>2018-05-01T00:00:00+02:00</updated><id>http://granada-pm.github.io/blog/squashathon</id><content type="html" xml:base="http://granada-pm.github.io/blog/squashathon/">&lt;p&gt;El primer fin de semana de cada mes se celebra un &lt;a href=&quot;https://github.com/rakudo/rakudo/wiki/Rakudo-SQUASHathon-Guide&quot;&gt;maratón de
+eliminación de bugs de Perl 6&lt;/a&gt;. En
+meses alternos, se dedica o bien a &lt;a href=&quot;https://rakudo.org&quot;&gt;Rakudo&lt;/a&gt;, el
+compilador, o a la &lt;a href=&quot;https://docs.perl.org&quot;&gt;documentación&lt;/a&gt;. Este mes
+toca documentación, así que vamos a organizar un evento para
+participar, desde Granada, en este hackatón internacional y a la vez
+aprender algo sobre este interesante y nuevo &lt;a href=&quot;https://perl6.org&quot;&gt;lenguaje de programación&lt;/a&gt;
+de la familia de Perl.&lt;/p&gt;
+
+&lt;h2 id=&quot;cuando&quot;&gt;Cuando&lt;/h2&gt;
+
+&lt;p&gt;El Aplastatón granadino tendrá lugar el 4 de mayo, a partir de las 10
+de la mañana, en la sala de Reuniones de
+la &lt;a href=&quot;https://etsiit.ugr.es&quot;&gt;ETSIIT&lt;/a&gt;. Terminaremos aproximadamente a las
+13:30, cuando iremos a tomarnos unas cervezas a La Posada.&lt;/p&gt;
+
+&lt;h2 id=&quot;como&quot;&gt;Como&lt;/h2&gt;
+
+&lt;p&gt;Comenzará &lt;a href=&quot;https://github.com/JJ&quot;&gt;JJ&lt;/a&gt; haciendo una breve introducción
+a Perl 6 y sobre todo Pod 6, el lenguaje de marcado que se usa en la
+documentación de Perl 6. A partir de ahí, es cuestión
+de &lt;a href=&quot;https://github.com/perl6/doc/issues&quot;&gt;escoger un &lt;em&gt;issue&lt;/em&gt;&lt;/a&gt; y
+trabajar sobre
+él. Algunos
+&lt;a href=&quot;https://github.com/perl6/doc/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&quot;&gt;están marcados como &lt;em&gt;good first issue&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Algunos,
+como
+&lt;a href=&quot;https://github.com/perl6/doc/issues/1984&quot;&gt;este de traducción del README.md a otros idiomas&lt;/a&gt;,
+ni siquiera necesitan conocimiento de Perl 6.&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-necesitas&quot;&gt;Qué necesitas&lt;/h2&gt;
+
+&lt;p&gt;Tráete tu ordenador, con una conexión a Internet que puedas
+usar. Trataremos de proporcionar conexión a los que no la tengan, pero
+esto no está garantizado. El ordenador es imprescindible, y conviene
+que tengas instalado &lt;a href=&quot;https://git-scm.com&quot;&gt;git&lt;/a&gt;, pero no es
+imprescindible que tengas instalado &lt;a href=&quot;https://perl6.org&quot;&gt;Perl 6&lt;/a&gt;. Te
+podemos ayudar a instalarlo sobre la marcha.&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-recibo-a-cambio&quot;&gt;Qué recibo a cambio&lt;/h2&gt;
+
+&lt;p&gt;Pegatinas y la satisfacción de esta trabajando en un interesante
+proyectos de software libre; tus aportaciones realmente sí pueden
+marcar la diferencia.&lt;/p&gt;</content><author><name></name></author><summary type="html">El primer fin de semana de cada mes se celebra un maratón de eliminación de bugs de Perl 6. En meses alternos, se dedica o bien a Rakudo, el compilador, o a la documentación. Este mes toca documentación, así que vamos a organizar un evento para participar, desde Granada, en este hackatón internacional y a la vez aprender algo sobre este interesante y nuevo lenguaje de programación de la familia de Perl.</summary></entry><entry><title type="html">Algunas buenas prácticas</title><link href="http://granada-pm.github.io/blog/algunas-buenas-practicas/" rel="alternate" type="text/html" title="Algunas buenas prácticas" /><published>2014-07-02T19:47:11+02:00</published><updated>2014-07-02T19:47:11+02:00</updated><id>http://granada-pm.github.io/blog/algunas-buenas-practicas</id><content type="html" xml:base="http://granada-pm.github.io/blog/algunas-buenas-practicas/">&lt;p&gt;En el &lt;a href=&quot;http://cevug.ugr.es/perl&quot;&gt;curso de Perl&lt;/a&gt; virtual que venimos
+impartiendo observamos que hay una serie de malas costumbres que se
+repiten, sea porque todo el mundo sigue los mismos ejemplos (que,
+ejem, algunos son nuestros) o porque simplemente han aprendido a
+programar en sitios similares. Siguiendo una serie de buenas prácticas
+Perleras, pero también de casi cualquier otro lenguaje, se hacen los
+programas más legibles, se programa de forma más eficiente y los
+programas son más mantenibles. Y en esto el manual definitivo es el
+&lt;a href=&quot;https://www.amazon.es/dp/B002L4EXI8?tag=atalaya-21&amp;amp;camp=3634&amp;amp;creative=24822&amp;amp;linkCode=as4&amp;amp;creativeASIN=B002L4EXI8&amp;amp;adid=0Y9FGAY72E8FH4AWVJ46&amp;amp;&quot;&gt;Perl Best Practices de Damien Conway&lt;/a&gt;,
+pero también &lt;a href=&quot;modernperlbooks.com/mt/index.html&quot;&gt;Modern Perl&lt;/a&gt; tiene un
+enfoque que anima a usarlas.&lt;/p&gt;
+
+&lt;p&gt;En todo caso, hay muchas (y herramientas para llevarlas a cabo), pero
+estas tratan de atajar ciertas cosas que se encuentran repetidamente
+en nuestros cursos&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No se deben usar
+&lt;a href=&quot;http://stackoverflow.com/questions/4865447/demystifying-the-perl-glob&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;GLOB&lt;/code&gt;s&lt;/a&gt;. Para
+entendernos, esto es un GLOB
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;open(FILE, &quot;&amp;gt;este_es_un_file&quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;En Perl previo a la versión 5, era la forma estándar de usar
+ ficheros. Sin embargo, ahora se puede usar&lt;/p&gt;
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;open(my $file, &quot;&amp;gt;este_es_un_file&quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;y luego el &lt;code class=&quot;highlighter-rouge&quot;&gt;$file&lt;/code&gt; lo puedes pasar como cualquier otra variable&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Siempre, siempre, &lt;code class=&quot;highlighter-rouge&quot;&gt;use strict&lt;/code&gt;y &lt;code class=&quot;highlighter-rouge&quot;&gt;use warnings&lt;/code&gt;. Siempre. ¿He dicho
+  siempre? Para evitar errores comunes y también alguna mala práctica,
+  como no declarar el ámbito de las variables.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Usa un método consistente para darle nombre a las variables, y el
+mejor es &lt;code class=&quot;highlighter-rouge&quot;&gt;$este_metodo&lt;/code&gt;. Nada de CamelCaps y muchopeor
+&lt;code class=&quot;highlighter-rouge&quot;&gt;$nicamelnicaps&lt;/code&gt; porque no hay forma de entenderse.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sigue las convenciones a la hora de nombrar variables (minúsculas)
+módulos (primera mayúscula y cada letra después de un _) y
+constantes y GLOBS (todo mayúsculas).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;En general, las funciones no deben de incluir “presentación”. Eso
+quiere decir que una rutina no debe ni de pedir información al
+usuario (más sobre esto más tarde) ni de imprimir cosas. Que
+devuelva información y el cliente de la función se encargue de
+formatearla como el cliente quiera.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Los menús en pantalla son taaaan de los años 80. “A continuación,
+pulse el número de la opción correspondiente” me trae a mi época
+del BASIC del Spectrum. Hoy en día hay muchas otras formas de
+elegir opciones. O haces un GUI como el FSM manda, usando &lt;code class=&quot;highlighter-rouge&quot;&gt;curses&lt;/code&gt;
+o &lt;code class=&quot;highlighter-rouge&quot;&gt;Tk&lt;/code&gt;  o lo que te dé la gana, o introduces opciones desde línea
+de órdenes o entrada estándar. Los programas en Perl deben estar
+(en general) preparados para ser encadenados de esta forma
+&lt;code class=&quot;highlighter-rouge&quot;&gt;mi_primer_programa.pl | ./segundo_programa.pl | y_este_tercero.pl
+-o foo&lt;/code&gt;  igual que “Introduce un nombre de fichero”. Usa el
+&lt;a href=&quot;http://campusvirtual.ull.es/ocw/file.php/43/perlexamples/node173.html&quot;&gt;operador diamante&lt;/a&gt;
+para leer nombres de ficheros o entrada estándar indistintamente.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Usa control de versiones. De veras, úsalo. Usa
+&lt;a href=&quot;https://www.amazon.es/dp/B00K515GL2?tag=atalaya-21&amp;amp;camp=3634&amp;amp;creative=24822&amp;amp;linkCode=as4&amp;amp;creativeASIN=B00K515GL2&amp;amp;adid=0QWZJD8TM41S32VW42EF&amp;amp;&quot;&gt;git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No es que sean las únicas buenas prácticas, pero sí unas convenientes
+y no demasiado complicadas.&lt;/p&gt;</content><author><name></name></author><summary type="html">En el curso de Perl virtual que venimos impartiendo observamos que hay una serie de malas costumbres que se repiten, sea porque todo el mundo sigue los mismos ejemplos (que, ejem, algunos son nuestros) o porque simplemente han aprendido a programar en sitios similares. Siguiendo una serie de buenas prácticas Perleras, pero también de casi cualquier otro lenguaje, se hacen los programas más legibles, se programa de forma más eficiente y los programas son más mantenibles. Y en esto el manual definitivo es el Perl Best Practices de Damien Conway, pero también Modern Perl tiene un enfoque que anima a usarlas.</summary></entry><entry><title type="html">Presentación oficial del mirror de CPAN en la OSL</title><link href="http://granada-pm.github.io/blog/presentacion-oficial-del-mirror-de-cpan-en-la-osl/" rel="alternate" type="text/html" title="Presentación oficial del mirror de CPAN en la OSL" /><published>2014-05-23T08:14:05+02:00</published><updated>2014-05-23T08:14:05+02:00</updated><id>http://granada-pm.github.io/blog/presentacion-oficial-del-mirror-de-cpan-en-la-osl</id><content type="html" xml:base="http://granada-pm.github.io/blog/presentacion-oficial-del-mirror-de-cpan-en-la-osl/">&lt;p&gt;Aunque ya lleva bastante tiempo funcionando,
+&lt;a href=&quot;http://osl.ugr.es/2014/05/20/mirrors-de-la-osl/&quot;&gt;el pasado 20 de mayo anunciamos oficialmente el nuevo mirror de CPAN en el servidor de la OSL&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;El
+&lt;a href=&quot;http://osl.ugr.es/CPAN/&quot;&gt;mirror funciona con HTTP en la dirección &lt;code class=&quot;highlighter-rouge&quot;&gt;http://osl.ugr.es/CPAN/&lt;/code&gt;&lt;/a&gt;,
+se une a los
+&lt;a href=&quot;http://osl.ugr.es/CPAN/SITES.html&quot;&gt;otros dos &lt;em&gt;mirrors&lt;/em&gt; oficiales de Rediris&lt;/a&gt;
+y es el único en Andalucía, por lo que os debería dar buen resultado
+desde la red universitaria andaluza, principalmente. En todo caso
+probad los diferentes mirrors que hay a ver cuál os da mejor
+rendimiento.&lt;/p&gt;</content><author><name></name></author><summary type="html">Aunque ya lleva bastante tiempo funcionando, el pasado 20 de mayo anunciamos oficialmente el nuevo mirror de CPAN en el servidor de la OSL</summary></entry><entry><title type="html">Nueva edición del curso de Perl</title><link href="http://granada-pm.github.io/blog/nueva-edicion-del-curso-de-perl/" rel="alternate" type="text/html" title="Nueva edición del curso de Perl" /><published>2014-05-14T19:02:35+02:00</published><updated>2014-05-14T19:02:35+02:00</updated><id>http://granada-pm.github.io/blog/nueva-edicion-del-curso-de-perl</id><content type="html" xml:base="http://granada-pm.github.io/blog/nueva-edicion-del-curso-de-perl/">&lt;h1 id=&quot;nueva-edición-del-curso-de-perl&quot;&gt;Nueva edición del curso de Perl&lt;/h1&gt;
+
+&lt;p&gt;En un par de días termina la matrícula de la
+&lt;a href=&quot;http://cevug.ugr.es&quot;&gt;decimo cuarta edición de nuestro tradicional curso de introducción a Perl&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Si no has tenido ninguna experiencia previa con este lenguaje, pero sí
+con otros lenguajes de programación, este es tu curso. Explicamos las
+nociones más básicas de &lt;a href=&quot;http://perl.org&quot;&gt;Perl&lt;/a&gt;: estructuras de datos
+y de control, entrada/salida y cosas algo más avanzadas: cómo trabajar
+con módulos y un poco de expresiones regulares.&lt;/p&gt;
+
+&lt;p&gt;Cientos de personas han pasado ya por este curso y, a estas horas,
+está bastante depurado. Si quieres tener un primer contacto con este
+lenguaje, o simplemente aprender un lenguaje que pueda resultarte útil
+para tu trabajo diario como científico o administrador de sistemas,
+&lt;a href=&quot;http://cevug.ugr.es/pero&quot;&gt;matricúlate&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Nueva edición del curso de Perl</summary></entry><entry><title type="html">Granada Perl Workshop</title><link href="http://granada-pm.github.io/blog/granada-perl-workshop/" rel="alternate" type="text/html" title="Granada Perl Workshop" /><published>2014-05-08T20:37:02+02:00</published><updated>2014-05-08T20:37:02+02:00</updated><id>http://granada-pm.github.io/blog/granada-perl-workshop</id><content type="html" xml:base="http://granada-pm.github.io/blog/granada-perl-workshop/">&lt;h2 id=&quot;granada-perl-workshop-ftw&quot;&gt;Granada Perl Workshop FTW!&lt;/h2&gt;
+
+&lt;p&gt;Después de darle muchas vueltas al asunto, y con la ayuda de los
+&lt;a href=&quot;http://barcelona.pm.org&quot;&gt;Perl Mongers de Barcelona&lt;/a&gt; y los
+&lt;a href=&quot;http://madrid.pm.org&quot;&gt;Perl Mongers de Madrid&lt;/a&gt;, especialmente
+&lt;a href=&quot;http://alexm.org&quot;&gt;Alex Muntada&lt;/a&gt; y
+&lt;a href=&quot;http://diego.kuperman.com.ar/&quot;&gt;Diego Kuperman&lt;/a&gt;, hemos decidido lanzar
+el &lt;em&gt;Granada Perl Workshop&lt;/em&gt;, un punto de encuentro para los
+desarrolladores de Perl de aquí y de fuera.&lt;/p&gt;
+
+&lt;h3 id=&quot;cuando&quot;&gt;Cuando&lt;/h3&gt;
+
+&lt;p&gt;Tendrá lugar el 27 de junio de 2014.&lt;/p&gt;
+
+&lt;h3 id=&quot;donde&quot;&gt;Donde&lt;/h3&gt;
+
+&lt;p&gt;En la
+&lt;a href=&quot;http://etsiit.ugr.es&quot;&gt;ETSIIT, Escuela Técnica Superior de Ingenierías Informática y Telecomunicación&lt;/a&gt;,
+en Granada capital.&lt;/p&gt;
+
+&lt;h3 id=&quot;por-qué&quot;&gt;Por qué&lt;/h3&gt;
+
+&lt;p&gt;Porque ya iba siendo hora.&lt;/p&gt;
+
+&lt;h3 id=&quot;qué&quot;&gt;Qué&lt;/h3&gt;
+
+&lt;p&gt;Charlas de una hora y de media hora, a lo largo de todo el
+día. ¿Desarrollas Perl? ¿Quieres contárnoslo? Este es tu
+evento. Haremos la llamada a la participación en breve.&lt;/p&gt;</content><author><name></name></author><summary type="html">Granada Perl Workshop FTW!</summary></entry></feed>
